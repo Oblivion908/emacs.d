@@ -1,1 +1,3 @@
-# emacs.d
+# init.el
+
+my emacs file configuration 
