@@ -1,4 +1,5 @@
 ;;tool bar mode
+;;
 (tool-bar-mode -1)
 ;; j'ai ajouté mes couille
 ;;scroll bar mode off
